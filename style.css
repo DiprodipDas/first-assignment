@@ -1,0 +1,277 @@
+body {
+    margin: 0px;
+}
+
+#top-image {
+    width: 100%;
+    height: 600px;
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.color-overlay {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url(images/donationtop.png);
+    height: 600px;
+    width: 100%;
+    padding-top: 5px;
+    color: white;
+
+}
+
+.top-class h1 {
+    text-align: center;
+    align-content: center;
+    padding-top: 10%;
+    margin-top: 2%;
+}
+
+.top-class p {
+    text-align: center;
+    align-content: center;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+#color-orange {
+    color: orange;
+    font-weight: 700;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(crimson, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 60px;
+    border-radius: 5px;
+    margin: 45% 40%;
+
+
+}
+
+.donate-today {
+    margin-top: 50px;
+    text-align: center;
+    align-content: center;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+.tk-button {
+    text-decoration: none;
+    background-color: rgb(242, 242, 241);
+    color: rgb(74, 71, 71);
+    font-weight: 700;
+    font-size: 20px;
+    padding: 30px 25px;
+    border-radius: 3px;
+    margin-left: 2%;
+
+}
+
+.list-tk {
+    margin-top: 50px;
+}
+
+#two-zero-zero {
+    background-color: pink;
+    border: 2px solid tomato;
+}
+
+#amount {
+    margin-top: 80px;
+    font-size: 50px;
+    display: flex;
+    margin-left: 43%;
+    outline: none;
+}
+
+#other {
+    color: rgba(13, 12, 12, 0.998);
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid black;
+
+}
+
+.second-button {
+    text-decoration: none;
+    background-color: orange;
+    display: flex;
+    background-image: linear-gradient(crimson, tomato);
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    padding: 10px 80px;
+    border-radius: 5px;
+    margin: 2% 40%;
+}
+
+.top-class h2 {
+    text-align: center;
+    align-content: center;
+    padding-top: 0%;
+    margin-top: 100px;
+}
+
+.plans {
+    display: flex;
+    margin-top: 100px;
+    width: fit-content;
+
+
+}
+
+#food {
+    margin-left: 22px;
+    margin-right: 20px;
+    height: 200px;
+    padding: 50px 20px;
+    background-color: silver;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#shelter {
+    margin-left: 50px;
+    margin-right: 20px;
+    height: 200px;
+    padding: 50px 20px;
+    background-color: pink;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+#frame {
+    margin-left: 50px;
+    margin-right: 20px;
+    width: 400px;
+    height: 200px;
+    padding: 50px 20px;
+    background-color: lightsalmon;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+#view-details {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(crimson, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+
+.join-mission {
+    text-align: left;
+    color: tomato
+}
+
+.help-list {
+    border: 2px solid rgb(188, 210, 19);
+    background-color: aqua;
+    border-radius: 5px;
+    margin-right: 350px;
+    font-weight: 700;
+    padding: 3px;
+    text-align: center;
+
+}
+
+#registration p {
+    text-align: center;
+    align-content: center;
+    padding-left: 25%;
+    padding-right: 25%;
+
+}
+
+#email {
+    background-color: rgb(191, 170, 163);
+    width: 60%;
+    height: 150px;
+    margin-left: 250px;
+}
+
+.form {
+    align-items: center;
+}
+
+.complete {
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    display: flex;
+    margin-left: 33%;
+    outline: none;
+}
+
+#enter {
+    color: rgba(248, 240, 240, 0.998);
+    background-color: rgb(65, 64, 64);
+    margin-top: 60px;
+    height: 30px;
+    border: none;
+}
+
+#press {
+    color: rgba(248, 240, 240, 0.998);
+    background-color: crimson;
+    height: 32px;
+    margin-top: 60px;
+    border: none;
+
+}
+
+footer {
+    margin-top: 70px;
+    padding-top: 10px;
+    width: 100%;
+    height: 100px;
+    color: crimson;
+    background-color: rgb(3, 4, 21);
+    text-align: center;
+    font-style: italic;
+    font-weight: 700;
+
+}
+
+#dip {
+    color: black;
+    background-color: rgb(168, 155, 181);
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    height: 50px;
+}
